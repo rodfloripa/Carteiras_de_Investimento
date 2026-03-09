@@ -4,7 +4,7 @@
 
 <p align="justify"><h1>Carteiras de Ações: O Impacto da Selic a 15,00%</h1></p>
 
-<p align="justify">Este documento apresenta a análise de desempenho de três estratégias de investimento — Risco Baixo, Médio e Alto — processadas através do seu ambiente Python. O foco principal recai sobre a eficiência de cada carteira quando ajustada pela volatilidade do mercado, utilizando o <b>Índice de Sharpe</b> como métrica balizadora para a tomada de decisão.</p>
+<p align="justify">Este documento apresenta a análise de desempenho de três estratégias de investimento — Risco Baixo, Médio e Alto — com 20 ações do Ibovespa analisadas. O foco principal recai sobre a eficiência de cada carteira quando ajustada pela volatilidade do mercado, utilizando o <b>Índice de Sharpe</b> como métrica balizadora para a tomada de decisão.</p>
 
 <p align="justify"><h3>1. Metodologia e Parâmetros Reais</h3></p>
 
